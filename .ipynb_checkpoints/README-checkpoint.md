@@ -14,6 +14,14 @@
  
   Often with much less liquid capital, experience, and background knowledge than their more senior counterparts, college-age investors might need extra support getting their portfolio off the ground. This is where CollegiateCapital comes in; throughout this project, we will be prompting our model to treat users as students rather than clients, looking to offer practical and dynamic advice to empower their decisions. 
 
+
+### Links to notebooks
+
+* [Evaluating existing LLMs](Exploration.ipynb)
+* [Model design](ModelCreation.ipynb)
+
+  
+
 ### Defining CollegiateCapital’s Functionalities 
 
 Given our college-age customers, many different user pathways could apply to our model. Below are just a few examples. 
