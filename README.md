@@ -17,10 +17,10 @@
 
 ### Check out our other notebooks!
 
-* [Overview](Overview.ipynb)
-* [User Case Flow Charts](User_Pathways.ipynb)
-* [Evaluating existing LLMs](Exploration.ipynb)
-* [Model design](ModelCreation.ipynb)
+* [Overview](1_Overview.ipynb)
+* [User Case Flow Charts](2_User_Pathways.ipynb)
+* [Evaluating existing LLMs](3_Exploration.ipynb)
+* [Model design](4_ModelCreation.ipynb)
 
   
 
