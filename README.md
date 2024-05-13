@@ -21,6 +21,7 @@
 * [User Case Flow Charts](2_User_Pathways.ipynb)
 * [Evaluating existing LLMs](3_Exploration.ipynb)
 * [Model design](4_ModelCreation.ipynb)
+* [Project Evaluation](5_Evaluations.ipynb)
 
   
 
